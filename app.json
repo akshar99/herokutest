@@ -3,5 +3,5 @@
   "description" : "This is my test server for heroku",
   "repositry" : "https://github.com/akshar99/herokutest",
   "logo" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F0%2F0d%2FAvengers_Endgame_poster.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAvengers%3A_Endgame&docid=AaNvJk3s-z7ZVM&tbnid=_TRnVg7mD1ea0M%3A&vet=10ahUKEwji_JSfv4njAhWNfisKHTRjDlEQMwhhKAAwAA..i&w=220&h=326&bih=714&biw=756&q=endgame%20images&ved=0ahUKEwji_JSfv4njAhWNfisKHTRjDlEQMwhhKAAwAA&iact=mrc&uact=8.jpg",
-  "keywords" : ["python" ,"Test", "Application"],
+  "keywords" : ["python" ,"Test", "Application"]
  } 
